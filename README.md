@@ -44,7 +44,7 @@ Este projeto implementa um agente de IA que aprende a navegar por labirintos ger
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/monokatarina/ia-labirintos.git
+git clone https://github.com/monokatarina/IA_traning.git
 cd ia-labirintos
 ```
 
